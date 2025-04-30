@@ -1,16 +1,39 @@
-# basit_calendar_app
+# 📅 Flutter Basic Calendar App
 
-A new Flutter project.
+Bu Flutter uygulaması, `table_calendar` paketi kullanılarak oluşturulmuş basit bir takvim uygulamasıdır. Kullanıcı bir tarih seçtiğinde terminalde seçilen tarih görüntülenir. Uygulama, paket kullanımı, tarih işleme ve kullanıcı etkileşimini öğrenmek için geliştirilmiştir.
 
-## Getting Started
+## 🔍 Özellikler
 
-This project is a starting point for a Flutter application.
+- Takvim görünümü
+- Tarih seçme özelliği
+- Terminalde seçilen tarihi gösterme
+- `table_calendar` paketi entegrasyonu
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- [table_calendar](https://pub.dev/packages/table_calendar) paketi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Uygulamayı Çalıştırmak İçin
+
+1. Projeyi klonla:
+```
+git clone https://github.com/EfsaTortukk/Flutter-Basic-Calendar-App.git
+cd Flutter-Basic-Calendar-App
+```
+
+2. Gerekli bağımlılıkları yükle:
+```
+flutter pub get
+```
+
+3. Uygulamayı başlat:
+```
+flutter run
+```
+
+## ✍️ Geliştirici
+
+👩‍💻 Efsa Tortuk  
+📫 [GitHub Profilim](https://github.com/EfsaTortukk)
